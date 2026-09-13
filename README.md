@@ -1,22 +1,22 @@
 # Portfolio
 
-A collection of projects built while learning frontend development and SQL. Each folder is a self-contained project with its own README.
+A collection of projects built while learning frontend development and SQL. Each project lives in its own repository, linked below.
 
 ## Projects
 
-### 🎨 [Coffee Shop Landing Page](./coffee-shop)
+### 🎨 [Coffee Shop Landing Page](https://github.com/agossolla/coffee-shop-landing)
 
 A responsive landing page for a fictional coffee shop, built with HTML and CSS.
-🔗 [Live Demo](https://your-demo-link.com)
+🔗 [Live Demo](https://agossolla.github.io/coffee-shop-landing/)
 
-### 🗄️ [Order Management System (SQL)](./order-management-sql)
+### 🗄️ [Order Management System (SQL)](https://github.com/agossolla/order-management-sql)
 
 A relational database project covering schema design, views, stored procedures, triggers, transactions, and query optimization.
 
-### 📋 [Gym-App](./Gym-App)
+### 💪 [Gym App](https://github.com/agossolla/Gym_App)
 
-One-line description.
-🔗 [Live Demo](https://your-demo-link.com)
+A fitness utility app featuring workout timers, a maintenance calorie calculator, a water intake calculator, and exercise badges based on user weight.
+🔗 [Live Demo](https://agossolla.github.io/Gym_App/)
 
 ## Tech Stack
 
@@ -24,7 +24,6 @@ HTML5 · CSS3 · JavaScript · SQL (MySQL) · Git
 
 ## About Me
 
-Computer Engineering student looking for frontend / SQL-focused roles, open to remote opportunities.
+Computer Engineering student looking for frontend / SQL-focused roles, open to remote
 
 - GitHub: [@agossolla](https://github.com/agossolla)
-- LinkedIn: [your-name](https://linkedin.com/in/your-name)
